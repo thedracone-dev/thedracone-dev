@@ -10,7 +10,7 @@ Readme · MD
  
 ## 🚀 En qué estoy trabajando
  
-Me estoy especializando como **desarrollador WordPress freelance**. Este perfil documenta mi proceso real — sin mentiras, sin atajos. Cada proyecto es un paso concreto hacia la independencia profesional y hacia una mejor vida para mi familia.
+Me estoy especializando como **desarrollador WordPress freelance**. Este perfil documenta mi proceso real — sin mentiras, sin atajos. Cada proyecto es un paso concreto hacia la Experiencia profesional
  
 Actualmente desarrollo entornos locales con **LocalWP**, edito con **VS Code**, y versiono con **Git/GitHub**. Mi mercado objetivo es **Workana LATAM**.
  
@@ -43,9 +43,8 @@ Actualmente desarrollo entornos locales con **LocalWP**, edito con **VS Code**, 
  
 ## 💡 Algo sobre mí
  
-Trabajo más de 15 horas al día y estudio en las noches.  
+  
 No tengo prisa — tengo propósito.  
-Cada línea de código que escribo es un paso hacia la independencia y hacia una mejor vida para mi familia.
  
 ---
  
