@@ -53,4 +53,4 @@ No tengo prisa — tengo propósito.
 - 📧 [tsucarlosarrieta@gmail.com](mailto:tsucarlosarrieta@gmail.com)
 - 💼 [Workana](https://www.workana.com) *(perfil en construcción)*
 - 🐙 [github.com/thedracone-dev](https://github.com/thedracone-dev)
--  [whatsapp](+573052029995)
+-  [whatsapp]([+573052029995](https://wa.me/573052029995))
