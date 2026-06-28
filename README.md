@@ -1,37 +1,49 @@
-# Hola, soy Esteban Arrieta 👋
+Hola, soy Esteban Arrieta 👋
 
-🇻🇪 Venezolano | Técnico Superior Universitario en Informática  
-📍 Actualmente en Colombia, próximamente trabajando remoto desde Venezuela  
-🎯 Mi meta: desarrollar sistemas de gestión para pequeñas empresas como freelance
+🇻🇪 Venezolano | Técnico Superior Universitario en Informática
 
-## 🚀 En qué estoy trabajando
+📍 Actualmente en Colombia — próximamente trabajando remoto desde Venezuela
 
-Actualmente estoy formándome como desarrollador de sistemas de escritorio.  
-Este perfil documenta mi proceso de aprendizaje real — sin mentiras, sin atajos.
+🎯 Mi meta: Desarrollar sitios web WordPress de alta calidad como freelance para el mercado LATAM
 
-## 🛠️ Stack que estoy aprendiendo
 
-- **Lenguaje:** C#
-- **Interfaces:** WPF
-- **Bases de datos:** MySQL · PostgreSQL · MongoDB
-- **Herramientas:** Git · GitHub · Visual Studio Code
+🚀 En qué estoy trabajando
 
-## 📚 Mi ruta de aprendizaje
+Me estoy especializando como desarrollador WordPress freelance. Este perfil documenta mi proceso real — sin mentiras, sin atajos. Cada proyecto es un paso concreto hacia la independencia profesional y hacia una mejor vida para mi familia.
 
-- ✅ Introducción a la programación
-- ⬜ C# desde cero
-- ⬜ SQL y bases de datos
-- ⬜ Interfaces gráficas con WPF
-- ⬜ Primer sistema completo de punto de venta
+Actualmente desarrollo entornos locales con LocalWP, edito con VS Code, y versiono con Git/GitHub. Mi mercado objetivo es Workana LATAM.
 
-## 💡 Algo sobre mí
 
-Trabajo más de 15 horas al día y estudio en las noches.  
-No tengo prisa, tengo propósito.  
-Cada línea de código que escribo es un paso hacia la independencia  
-y hacia una mejor vida para mi familia.
+🛠️ Stack actual
 
-## 📫 Contacto
+ÁreaTecnologíasCMSWordPressConstructoresElementor, Elementor ProE-CommerceWooCommerceLenguajesPHP, HTML5, CSS3, JavaScript básicoBase de datosMySQLHerramientasGit · GitHub · VS Code · LocalWPSO de desarrolloXubuntu 24.04 LTS
 
-- 📧 tsucarlosarrieta@gmail.com
-- 💼 Próximamente en Workana
+
+📚 Roadmap WordPress
+
+
+✅ Entorno de desarrollo local configurado (LocalWP + VS Code + Git)
+⬜ Primeros temas child y personalización CSS
+⬜ Landing pages con Elementor (primeros proyectos reales en Workana)
+⬜ Tiendas WooCommerce básicas con pasarelas de pago LATAM
+⬜ Optimización de velocidad y SEO on-page
+⬜ Primer plugin WordPress propio
+⬜ Portafolio de 5 proyectos publicados
+
+
+
+💡 Algo sobre mí
+
+Trabajo más de 15 horas al día y estudio en las noches.
+
+No tengo prisa — tengo propósito.
+
+Cada línea de código que escribo es un paso hacia la independencia y hacia una mejor vida para mi familia.
+
+
+📫 Contacto
+
+
+📧 tsucarlosarrieta@gmail.com
+💼 Workana (perfil en construcción)
+🐙 github.com/thedracone-dev
