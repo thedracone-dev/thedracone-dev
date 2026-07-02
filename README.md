@@ -1,56 +1,60 @@
-
-Readme · MD
 # Hola, soy Esteban Arrieta 👋
- 
-🇻🇪 Venezolano | Técnico Superior Universitario en Informática  
-📍 Actualmente en Colombia — próximamente trabajando remoto desde Venezuela  
-🎯 **Mi meta:** Desarrollar sitios web WordPress de alta calidad como freelance para el mercado LATAM
- 
+### TSU en Informática | Desarrollador WordPress Freelance
+
+🇻🇪 Venezolano | 📍 Actualmente en Colombia (Próximamente trabajando remoto desde Venezuela)  
+🎯 **Mi meta:** Desarrollar sitios web WordPress de alta calidad para el mercado LATAM a través de Workana.
+
 ---
- 
+
+## 🧠 Mi Filosofía de Trabajo (El Criterio Primero)
+
+*   **IA como Extensión, no como Reemplazo:** Utilizo la inteligencia artificial como un copiloto de alta velocidad para potenciar mi productividad, pero mantengo el control absoluto de la lógica, la arquitectura y el porqué de cada línea de código. No saboteo mi propio aprendizaje con *copy-paste*.
+*   **Pragmatismo Técnico:** No me caso con dogmas tecnológicos. Elijo la herramienta, el sistema operativo (Xubuntu/Windows LTSC) y el hardware que garanticen el mejor rendimiento y control para el proyecto del cliente.
+*   **Gestión del Conocimiento:** Construyo mi propio sistema de conocimiento interconectado (Zettelkasten/Obsidian) para asegurar que cada concepto aprendido se transforme en una solución sólida, segura y de largo plazo.
+
+---
+
 ## 🚀 En qué estoy trabajando
- 
-Me estoy especializando como **desarrollador WordPress freelance**. Este perfil documenta mi proceso real — sin mentiras, sin atajos. Cada proyecto es un paso concreto hacia la Experiencia profesional
- 
-Actualmente desarrollo entornos locales con **LocalWP**, edito con **VS Code**, y versiono con **Git/GitHub**. Mi mercado objetivo es **Workana LATAM**.
- 
+
+Este perfil documenta mi proceso real — **sin mentiras, sin atajos**. Cada repositorio es un paso concreto hacia la excelencia profesional. Actualmente desarrollo entornos locales con LocalWP, edito con VS Code y controlo versiones con Git/GitHub, apuntando a entregar soluciones reales que no fallen en silencio en el background.
+
 ---
- 
-## 🛠️ Stack actual
- 
+
+## 🛠️ Stack Actual
+
 | Área | Tecnologías |
-|---|---|
+| :--- | :--- |
 | **CMS** | WordPress |
 | **Constructores** | Elementor, Elementor Pro |
 | **E-Commerce** | WooCommerce |
 | **Lenguajes** | PHP, HTML5, CSS3, JavaScript básico |
-| **Base de datos** | MySQL |
-| **Herramientas** | Git · GitHub · VS Code · LocalWP |
-| **SO de desarrollo** | Xubuntu 24.04 LTS |
- 
+| **Base de Datos** | MySQL |
+| **Herramientas** | Git, GitHub, VS Code, LocalWP |
+| **SO de Desarrollo** | Xubuntu 24.04 LTS |
+
 ---
- 
+
 ## 📚 Roadmap WordPress
- 
-- ✅ Entorno de desarrollo local configurado (LocalWP + VS Code + Git)
-- ⬜ Primeros temas child y personalización CSS
-- ⬜ Landing pages con Elementor (primeros proyectos reales en Workana)
-- ⬜ Tiendas WooCommerce básicas con pasarelas de pago LATAM
-- ⬜ Optimización de velocidad y SEO on-page
-- ⬜ Primer plugin WordPress propio
-- ⬜ Portafolio de 5 proyectos publicados
+
+*   [x] Entorno de desarrollo local configurado (LocalWP + VS Code + Git)
+*   [ ] Primeros temas child y personalización CSS
+*   [ ] Landing pages con Elementor (Primeros proyectos reales en Workana)
+*   [ ] Tiendas WooCommerce básicas con pasarelas de pago LATAM
+*   [ ] Optimización de velocidad y SEO on-page
+*   [ ] Primer plugin WordPress propio
+*   [ ] Portafolio de 5 proyectos publicados
+
 ---
- 
+
 ## 💡 Algo sobre mí
- 
-  
-No tengo prisa — tengo propósito.  
- 
+
+> "No tengo prisa — tengo propósito. El verdadero valor de un desarrollador no está en mover los dedos rápido en el teclado, sino en el criterio para resolver problemas complejos sin que el sistema falle en silencio."
+
 ---
- 
+
 ## 📫 Contacto
- 
-- 📧 [tsucarlosarrieta@gmail.com](mailto:tsucarlosarrieta@gmail.com)
-- 💼 [Workana](https://www.workana.com) *(perfil en construcción)*
-- 🐙 [github.com/thedracone-dev](https://github.com/thedracone-dev)
--  [whatsapp]([+573052029995](https://wa.me/573052029995))
+
+*   **Correo electrónico:** tsucarlosarrieta@gmail.com
+*   **WhatsApp:** +573052029995
+*   **GitHub:** github.com/thedracone-dev
+*   **Workana:** Perfil en construcción
