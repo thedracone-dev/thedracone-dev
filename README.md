@@ -74,6 +74,7 @@ Para garantizar un entorno de pruebas realista y un aprendizaje sin distraccione
 
 *   **Ubicación:** Estado Zulia, Venezuela.
 *   **Email:** tsu.carlosarrieta@gmail.com
+*   **WhatsApp:** [+58 414-693-9783](https://wa.me/584146939783)
 *   **GitHub:** [@thedracone-dev](https://github.com/thedracone-dev)
 *   **LinkedIn:** [Esteban Arrieta](https://www.linkedin.com/in/esteban-arrieta-336a68251/)
 *   **Upwork:** [Perfil de Freelancer](https://upwork.com/freelancers/~019fe066aa8af8bb29)
